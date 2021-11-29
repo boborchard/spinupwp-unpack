@@ -2,7 +2,7 @@
 
 # Unpack the payload
 mkdir 'unpack'
-unzip '*.zip' -d backup
+unzip '*.zip' -d unpack
 
 # Move down to the files directory for wp-cli
 cd files
